@@ -1,3 +1,4 @@
+package operadores;
 /*public class Operadores1 {
     public static void main(String[] args) {
         // Declaração de variáveis
@@ -34,7 +35,7 @@
 }*/
 
  //concatenação estring com numeros
- public class Operadores {
+/*public class Operadores {
     public static void main(String[] args) {
         String concatenacao ="?";
 
@@ -48,5 +49,13 @@
         System.out.println(concatenacao);
 
     }
- }
- 
+}*/
+public class Operadores {
+    public static void main(String[] args) {
+       int numero = 8;  // Declaração de variável
+
+       numero++;  // Incrementa numero em 1 (agora vale 6)
+
+       System.out.println(numero);  // Exibe "valor de numero"
+    }
+}
