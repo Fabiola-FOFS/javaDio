@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"loops","c":"Ex4_ParEImpar","l":"Ex4_ParEImpar()","u":"%3Cinit%3E()"},{"p":"loops","c":"Ex4_ParEImpar","l":"main(String[])","u":"main(java.lang.String[])"}];updateSearchResults();

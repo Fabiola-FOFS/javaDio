@@ -3,6 +3,60 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Ex6_Fatorial",
+            "request": "launch",
+            "mainClass": "loops.Ex6_Fatorial",
+            "projectName": "javaDio_bd9a6b41"
+        },
+        {
+            "type": "java",
+            "name": "Ex5_Tabuada",
+            "request": "launch",
+            "mainClass": "loops.Ex5_Tabuada",
+            "projectName": "javaDio_bd9a6b41"
+        },
+        {
+            "type": "java",
+            "name": "Ex4_ParEImpar2",
+            "request": "launch",
+            "mainClass": "loops.Ex4_ParEImpar2",
+            "projectName": "javaDio_bd9a6b41"
+        },
+        {
+            "type": "java",
+            "name": "AboutMe",
+            "request": "launch",
+            "mainClass": "AboutMe",
+            "args": [
+                "fofs",
+                "videira",
+                "30",
+                "1.59"
+            ]
+        },
+        {
+            "type": "java",
+            "name": "MinhaClasse",
+            "request": "launch",
+            "mainClass": "MinhaClasse",
+            "projectName": "javaDio_bd9a6b41"
+        },
+        {
+            "type": "java",
+            "name": "MinhaClasse",
+            "request": "launch",
+            "mainClass": "meuappjava.MinhaClasse",
+            "projectName": "javaDio_bd9a6b41"
+        },
+        {
+            "type": "java",
+            "name": "Minhaclasse",
+            "request": "launch",
+            "mainClass": "meuappjava.Minhaclasse",
+            "projectName": "javaDio_bd9a6b41"
+        },
+        {
+            "type": "java",
             "name": "Executar Arquivo",
             "request": "launch",
             "mainClass": ""

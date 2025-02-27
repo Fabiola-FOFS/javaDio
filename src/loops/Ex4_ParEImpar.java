@@ -3,6 +3,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
 
+
 /*
 Faça um programa que peça N números inteiros, calcule e mostre a quantidade de números pares e a quantidade de números impares */
 
